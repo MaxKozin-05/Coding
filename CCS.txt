@@ -1,0 +1,8 @@
+Website File Structure 
+
+Folders 
+css img js
+
+Files
+index.html - main page 
+page-two.html
